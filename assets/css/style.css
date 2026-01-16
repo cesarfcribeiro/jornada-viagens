@@ -1,2 +1,6 @@
 @import url(./global.css);
 @import url(./header.css);
+
+.fundo {
+    width: 100%;
+}
